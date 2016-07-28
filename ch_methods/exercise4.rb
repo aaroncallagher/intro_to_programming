@@ -1,9 +1,10 @@
 def scream(words)
-  words = words + "!!!!"
+  words += '!!!!'
   return
   puts words
 end
 
-scream("Yippee")
+scream('Yippee')
 
-# ****Nothing will be printed to the screen, becasue the return statement happens before puts****
+# ****Nothing will be printed to the screen, becasue the return statement
+#      happens before puts****
