@@ -6,5 +6,5 @@ def to_uppercase(string)
   end
 end
 
-to_uppercase("My name is Aaron Callagher")
-to_uppercase("short")
+to_uppercase('My name is Aaron Callagher')
+to_uppercase('short')
